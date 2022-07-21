@@ -10,13 +10,13 @@ ZK game designed for ZKU cohort 4 week 3 assignment
 * In every round the wolf has to select a ship to kill ony can kill that is in contact(distance = 1).(The wolf has to compute the wollfKillSheep)
 * Then this sheep appear dead(wollfKillSheep output).
 * now it is time for the shepherd to make deductions, he can shoot a sheep to see if it is the wolf, if it is not the sheep dies.(The wolf has to compute shepherdKillSheep).
-* Finaly the sheep are mixed randomly and a new round can start again.
+* Finally the sheep are mixed randomly and a new round can start again.
 
 ## Final
 * The game is over hen the shepherd kills the wolf, the score consists in the # of sheep that left alive.
 * The game can be repeated switching the roles in order to compare the scores and obtain a winner.
 
-ZK is used to allow the game computation mantaining hiden the wolf inside a sheep skin. To avoid brute force attack against the wolf hidden identity we use a salted hash commitment.
+ZK is used to allow the game computation maintaining hidden the wolf inside a sheep skin. To avoid brute force attack against the wolf hidden identity we use a salted hash commitment.
 
 ## Circuits
 we use 2 circuits, since every round is done in 2 steps
