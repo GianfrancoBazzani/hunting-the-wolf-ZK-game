@@ -22,3 +22,12 @@ ZK is used to allow the game computation mantaining hiden the wolf hidden inside
 we use 2 circuits, since every round is done in 2 steps
 * wollfKillSheep: checks if the sheep is dead, checks if the identity of the wolf is correct with the public hash,  checks if the sheep to kill is in the range of the wolf, outputs the #of the killed sheep.
 * shepherdKillSheep: checks if the sheep is dead, checks if the sheep is the wolf, outputs the # of the killed sheep.
+
+## Example play with 3X3 matrix
+|-|-|-|
+|0|0|0|
+|-|-|-|
+|0|0|0|
+|-|-|-|
+|0|0|0|
+|-|-|-|
