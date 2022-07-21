@@ -45,7 +45,7 @@ the sheep are mixed, corpses don't move
 the wolf decides to kill the sheep #6
 |4|7|2|
 |-|-|-|
-|3|X|X|<--6
+|3|X|X|
 |5|8|9|
 
 the shepherd is suspicious about (7,2,8,9)
@@ -70,7 +70,7 @@ he was right
 |4|9|X|
 |-|-|-|
 |8|X|X|
-|5|X|X|<-- the wolf has been killed
+|5|X|X|
 
 
 The game ends with 3 sheep alive
