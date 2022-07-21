@@ -24,7 +24,7 @@ we use 2 circuits, since every round is done in 2 steps
 * shepherdKillSheep: checks if the sheep is dead, checks if the sheep is the wolf, outputs the # of the killed sheep.
 
 ## Example play with 3X3 matrix
-|-|-|-|
+
 |0|0|0|
 |0|0|0|
 |0|0|0|
