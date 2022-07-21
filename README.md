@@ -26,6 +26,8 @@ we use 2 circuits, since every round is done in 2 steps
 ## Example play with 3X3 matrix
 |-|-|-|
 |0|0|0|
-|0|0|0|
+|-|-|-|
 |0|0|0|
 |-|-|-|
+|0|0|0|
+
