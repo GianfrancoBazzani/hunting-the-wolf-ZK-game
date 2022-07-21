@@ -28,6 +28,5 @@ we use 2 circuits, since every round is done in 2 steps
 |0|0|0|
 |-|-|-|
 |0|0|0|
-|-|-|-|
 |0|0|0|
 
