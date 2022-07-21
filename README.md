@@ -64,7 +64,6 @@ the wolf only can kill the sheep #3
 |8|X|X|
 |5|X|7|
    ^
-   |
    3
    
 the shepherd is suspicious about (7,8)
