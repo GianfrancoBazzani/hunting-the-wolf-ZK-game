@@ -16,7 +16,7 @@ ZK game designed for ZKU cohort 4 week 3 assignment
 * The game is over hen the shepherd kills the wolf, the score consists in the # of sheep that left alive.
 * The game can be repeated switching the roles in order to compare the scores and obtain a winner.
 
-ZK is used to allow the game computation mantaining hiden the wolf hidden inside a sheep skin. To avoid brute force attack against the wolf hidden identity we use a salted hash commitment.
+ZK is used to allow the game computation mantaining hiden the wolf inside a sheep skin. To avoid brute force attack against the wolf hidden identity we use a salted hash commitment.
 
 ## Circuits
 we use 2 circuits, since every round is done in 2 steps
