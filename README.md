@@ -17,4 +17,4 @@ ZK game designed for ZKU cohort 4 week 3 assignment
 
 
 
-ZK is used to allow the game computation mantaining the hiden wollf in secret
+ZK is used to allow the game computation mantaining the hiden wolf hidden inside a sheep skin.
